@@ -468,11 +468,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "បង្កើតអ៊ីខមមើស ប្រកបដោយវិជ្ជាជីវៈនិងស្រស់ស្អាតនៅលើគេហទំព័ររបស់អ្នកជាមួយអូឌូ។ \n"
 "\n"
-"ស្វែងយល់បន្ថែមនៅ https://www.odoo.com/page/e-commerce"
+"ស្វែងយល់បន្ថែមនៅ https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -954,21 +954,21 @@ msgstr "ដេម៉ូអូឌូវេបសាយនិង អ៊ីខម�
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 "កម្មវិធីទីផ្សារបានរួមបញ្ចូលពេញលេញ អូឌូ នឹងជួយអ្នកក្នុងការទាក់ទាញ, "
 "បម្លែងនិងបិទតម្រុយថ្មី។ "
-"សូម​ពិនិត្យ​មើលវីដេអូបីផ្នែករបស់យើងនិងស្វែងយល់បន្ថែមនៅ www.odoo.com"
+"សូម​ពិនិត្យ​មើលវីដេអូបីផ្នែករបស់យើងនិងស្វែងយល់បន្ថែមនៅ www.seelyn.com"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
-"កម្មវិធីទីផ្សារបានរួមបញ្ចូលពេញលេញ អូឌូ នឹងជួយអ្នកក្នុងការទាក់ទាញ, បម្លែងនិងបិទតម្រុយថ្មី។ សូម​ពិនិត្យ​មើលវីដេអូបីផ្នែករបស់យើងនិងស្វែងយល់បន្ថែមនៅ www.odoo.com\n"
+"កម្មវិធីទីផ្សារបានរួមបញ្ចូលពេញលេញ អូឌូ នឹងជួយអ្នកក្នុងការទាក់ទាញ, បម្លែងនិងបិទតម្រុយថ្មី។ សូម​ពិនិត្យ​មើលវីដេអូបីផ្នែករបស់យើងនិងស្វែងយល់បន្ថែមនៅ www.seelyn.com\n"
 "វីដេអូផលិតដោយ Miroslava Ganzarcikova និងសូហ្វៀ អេរិបូ"
 
 #. module: website_slides
@@ -1226,10 +1226,10 @@ msgstr "សូមអភ័យទោស មិនមានអ្វីផ្គ�
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "ឈប់ធ្វើការបោះពុម្ពនិងស្កេនដោយដៃ។ ផ្លាស់ទៅហត្ថលេខាអេឡិចត្រូនិកជាមួយអូឌូ! \n"
-"ស្វែងយល់បន្ថែមនៅ https://www.odoo.com/page/sign"
+"ស្វែងយល់បន្ថែមនៅ https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

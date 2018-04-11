@@ -5,7 +5,7 @@
     'category': 'Marketing',
     'sequence': 135,
     'summary': 'Schedule, Promote and Sell Events',
-    'website': 'https://www.odoo.com/page/website-builder',
+    'website': 'https://www.seelyn.com/page/website-builder',
     'description': """
 Online Events
         """,

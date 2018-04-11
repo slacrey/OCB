@@ -26,5 +26,5 @@ Install some generic chart of accounts.
         '../account/demo/account_bank_statement.yml',
         '../account/demo/account_invoice_demo.yml',
     ],
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.seelyn.com/page/accounting',
 }

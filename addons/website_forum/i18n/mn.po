@@ -3094,8 +3094,8 @@ msgstr "давхардсан бичлэг"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "ж.нь. https://www.odoo.com"
+msgid "e.g. https://www.seelyn.com"
+msgstr "ж.нь. https://www.seelyn.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq

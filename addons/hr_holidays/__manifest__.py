@@ -7,7 +7,7 @@
     'category': 'Human Resources',
     'sequence': 27,
     'summary': 'Holidays, Allocation and Leave Requests',
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.seelyn.com/page/employees',
     'description': """
 Manage leave requests and allocations
 =====================================

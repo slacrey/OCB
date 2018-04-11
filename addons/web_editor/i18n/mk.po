@@ -1348,14 +1348,14 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/editor.xml:241
 #, python-format
-msgid "https://www.odoo.com"
+msgid "https://www.seelyn.com"
 msgstr ""
 
 #. module: web_editor
 #. openerp-web
 #: code:addons/web_editor/static/src/xml/editor.xml:113
 #, python-format
-msgid "https://www.odoo.com/logo.png"
+msgid "https://www.seelyn.com/logo.png"
 msgstr ""
 
 #. module: web_editor

@@ -281,8 +281,8 @@ msgstr "es. Motori di ricerca, pagina Sito Web, .."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/page/contactus"
-msgstr "es. https://www.odoo.com/page/contactus"
+msgid "e.g. https://www.seelyn.com/page/contactus"
+msgstr "es. https://www.seelyn.com/page/contactus"
 
 #. module: website_links
 #. openerp-web

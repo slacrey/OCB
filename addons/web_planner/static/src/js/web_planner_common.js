@@ -459,7 +459,7 @@ var PlannerDialog = Widget.extend({
     },
     confirm_upgrade: function() {
         new Model("res.users").call("search_count", [[["share", "=", false]]]).then(function(data) {
-            window.location = "https://www.odoo.com/odoo-enterprise/upgrade?utm_medium=community_upgrade&num_users=" + data;
+            window.location = "https://www.seelyn.com/odoo-enterprise/upgrade?utm_medium=community_upgrade&num_users=" + data;
         });
     },
 });

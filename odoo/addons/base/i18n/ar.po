@@ -19592,8 +19592,8 @@ msgstr "مثلا en_US"
 #: model:ir.ui.view,arch_db:base.view_company_form
 #: model:ir.ui.view,arch_db:base.view_partner_address_form
 #: model:ir.ui.view,arch_db:base.view_partner_form
-msgid "e.g. www.odoo.com"
-msgstr "مثلا www.odoo.com"
+msgid "e.g. www.seelyn.com"
+msgstr "مثلا www.seelyn.com"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale

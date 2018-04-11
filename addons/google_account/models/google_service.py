@@ -79,7 +79,7 @@ class GoogleService(models.TransientModel):
         }
 
         Parameters = self.env['ir.config_parameter']
-        base_url = Parameters.get_param('web.base.url', default='http://www.odoo.com?NoBaseUrl')
+        base_url = Parameters.get_param('web.base.url', default='http://www.seelyn.com?NoBaseUrl')
         client_id = Parameters.sudo().get_param('google_%s_client_id' % (service,), default=False)
 
         encoded_params = werkzeug.url_encode({
@@ -99,7 +99,7 @@ class GoogleService(models.TransientModel):
             not be redirected.
         """
         Parameters = self.env['ir.config_parameter']
-        base_url = Parameters.get_param('web.base.url', default='http://www.odoo.com?NoBaseUrl')
+        base_url = Parameters.get_param('web.base.url', default='http://www.seelyn.com?NoBaseUrl')
         client_id = Parameters.sudo().get_param('google_%s_client_id' % (service,), default=False)
         client_secret = Parameters.sudo().get_param('google_%s_client_secret' % (service,), default=False)
 

@@ -49,7 +49,7 @@
             <field name="image" type="base64" file="website_slides/data/demo-thumbnails/tR0xandHlhU.jpg"/>
             <field name="description">Create a beautiful and professional eCommerce on your website with Odoo.
 
-Find out more at https://www.odoo.com/page/e-commerce</field>
+Find out more at https://www.seelyn.com/page/e-commerce</field>
         </record>
         <record id="slide_2" model="slide.slide">
             <field name="name">Odoo All-in-One Software Demonstration</field>
@@ -77,7 +77,7 @@ Learn more at https://odoo.com</field>
             <field name="image" type="base64" file="website_slides/data/demo-thumbnails/8DBabYQ1nUE.jpg"/>
             <field name="description">Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!
 
-Discover more at https://www.odoo.com/page/sign</field>
+Discover more at https://www.seelyn.com/page/sign</field>
         </record>
         <record id="slide_5" model="slide.slide">
             <field name="name">Awesome Timesheet by Odoo</field>
@@ -104,7 +104,7 @@ iOS: http://bit.ly/1ZUZsZD</field>
             <field name="website_published" eval="True"/>
             <field name="tag_ids" eval="[(4, ref('tag1')), (4, ref('tag2'))]"/>
             <field name="image" type="base64" file="website_slides/data/demo-thumbnails/qhSCMShJkTY.jpg"/>
-            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com</field>
+            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com</field>
         </record>
         <record id="slide_7" model="slide.slide">
             <field name="name">Odoo Marketing - part 1: ATTRACT_2</field>
@@ -116,7 +116,7 @@ iOS: http://bit.ly/1ZUZsZD</field>
             <field name="website_published" eval="True"/>
             <field name="tag_ids" eval="[(4, ref('tag1')), (4, ref('tag2'))]"/>
             <field name="image" type="base64" file="website_slides/data/demo-thumbnails/L1Ye6ATzZXY.jpg"/>
-            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com</field>
+            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com</field>
         </record>
         <record id="slide_8" model="slide.slide">
             <field name="name">Odoo Marketing - part 1: ATTRACT_3</field>
@@ -128,7 +128,7 @@ iOS: http://bit.ly/1ZUZsZD</field>
             <field name="website_published" eval="True"/>
             <field name="tag_ids" eval="[(4, ref('tag1')), (4, ref('tag2'))]"/>
             <field name="image" type="base64" file="website_slides/data/demo-thumbnails/sEvZyNZCtOs.jpg"/>
-            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com</field>
+            <field name="description">Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com</field>
         </record>
 
         <record id="slide_9" model="slide.slide">
@@ -260,7 +260,7 @@ iOS: http://bit.ly/1ZUZsZD</field>
 67. Conclusion
 68. Conclusion Performance : o Odoo is 3x times faster than the Drupal o Odoo is 6x times faster than the Magento o Odoo is 2x times faster than the Prestashop Scalability : o Odoo timeout at 198 users o Drupal timeout at 125 users o Magento timeout at 148 users o Prestashop timeout at 104 users Maintainability : o 1.3x times smaller then the drupal o 5.5x times smaller then the magento o 1.9x times smaller then the prestashop
 69. Questions ?
-70. Odoo sales@odoo.com +32 (0) 2 290 34 90 www.odoo.com R&amp;D and services offce Chaussée de Namur 40 B-1367 Grand Rosière Sales offce Avenue Van Nieuwenhuyse 5 B-1160 Brussels Thank You</field>
+70. Odoo sales@odoo.com +32 (0) 2 290 34 90 www.seelyn.com R&amp;D and services offce Chaussée de Namur 40 B-1367 Grand Rosière Sales offce Avenue Van Nieuwenhuyse 5 B-1160 Brussels Thank You</field>
         </record>
 
         <record model="slide.channel" id="channel_public">

@@ -37,13 +37,13 @@ index_template = """
         <p>
         The PosBox is a hardware adapter that allows you to use
         receipt printers and barcode scanners with Odoo's Point of
-        Sale, <b>version 8.0 or later</b>. You can start an <a href='https://www.odoo.com/start'>online free trial</a>,
-        or <a href='https://www.odoo.com/page/download'>download and install</a> it yourself.
+        Sale, <b>version 8.0 or later</b>. You can start an <a href='https://www.seelyn.com/start'>online free trial</a>,
+        or <a href='https://www.seelyn.com/page/download'>download and install</a> it yourself.
         </p>
         <p>
         For more information on how to setup the Point of Sale with
         the PosBox, please refer to
-        <a href='https://www.odoo.com/documentation/user/point_of_sale/posbox/index.html'>the manual</a>.
+        <a href='https://www.seelyn.com/documentation/user/point_of_sale/posbox/index.html'>the manual</a>.
         </p>
         <p>
         To see the status of the connected hardware, please refer 

@@ -41,10 +41,10 @@ var UserMenu = Widget.extend({
         $avatar.attr('src', avatar_src);
     },
     on_menu_documentation: function () {
-        window.open('https://www.odoo.com/documentation/user', '_blank');
+        window.open('https://www.seelyn.com/documentation/user', '_blank');
     },
     on_menu_support: function () {
-        window.open('https://www.odoo.com/buy', '_blank');
+        window.open('https://www.seelyn.com/buy', '_blank');
     },
     on_menu_settings: function() {
         var self = this;

@@ -438,11 +438,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "Kreirajte prekrasan i profesionalan eCommerce na Vašoj web stranici s Odoo. \n"
 "\n"
-"Saznajte više na https://www.odoo.com/page/e-commerce"
+"Saznajte više na https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -917,14 +917,14 @@ msgstr ""
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
@@ -1185,7 +1185,7 @@ msgstr "Žao nam je, ali ništa ne odgovara vašim kriterijima pretrage"
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 
 #. module: website_slides

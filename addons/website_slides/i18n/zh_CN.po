@@ -451,7 +451,7 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 
 #. module: website_slides
@@ -931,19 +931,19 @@ msgstr ""
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
 "Odoo的完全整合营销应用程序将帮助你吸引，转换和关闭新的线索。看看我们的三部分组成的视频，发现更多的由Miroslava "
-"Ganzarcikova和Sophia Eribo制作 www.odoo.com 视频。"
+"Ganzarcikova和Sophia Eribo制作 www.seelyn.com 视频。"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_9
@@ -1194,11 +1194,11 @@ msgstr "抱歉，没有符合你的搜索条件"
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "告别手动打印和扫描。转投带有 Odoo 标志的电子签名！\n"
 "\n"
-" 欲了解更多内容，请访问 https://www.odoo.com/page/sign"
+" 欲了解更多内容，请访问 https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

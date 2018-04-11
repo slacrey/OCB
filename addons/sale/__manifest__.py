@@ -40,7 +40,7 @@ The Dashboard for the Sales Manager will include
 * My Quotations
 * Monthly Turnover (Graph)
     """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.seelyn.com/page/crm',
     'depends': ['sales_team', 'account', 'procurement', 'report', 'web_tour'],
     'data': [
         'data/ir_sequence_data.xml',

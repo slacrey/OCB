@@ -440,7 +440,7 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 
 #. module: website_slides
@@ -923,19 +923,19 @@ msgstr ""
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
 "Η πλήρως ενσωματωμένη εφαρμογή Marketing της odoo θα σας βοηθήσει να προσελκύσετε, να μετατρέψει και να κλείσετε πωλήσεις. \n"
-"Δείτε τα τρία μέρη του βίντεο μας και ανακαλύψετε περισσότερα στο www.odoo.com\n"
+"Δείτε τα τρία μέρη του βίντεο μας και ανακαλύψετε περισσότερα στο www.seelyn.com\n"
 "\n"
 "Το βίντεο δημιουργήθηκε από την Miroslava Ganzarcikova και την Sophia Eribo."
 
@@ -1200,7 +1200,7 @@ msgstr "Συγνώμη, αλλά τίποτα δεν ταιριάζει με τ�
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 
 #. module: website_slides

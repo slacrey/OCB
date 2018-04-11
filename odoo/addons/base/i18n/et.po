@@ -18927,7 +18927,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:base.view_company_form
 #: model:ir.ui.view,arch_db:base.view_partner_address_form
 #: model:ir.ui.view,arch_db:base.view_partner_form
-msgid "e.g. www.odoo.com"
+msgid "e.g. www.seelyn.com"
 msgstr ""
 
 #. module: base

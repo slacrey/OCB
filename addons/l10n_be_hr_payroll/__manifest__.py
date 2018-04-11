@@ -21,7 +21,7 @@ Belgian Payroll Rules.
     """,
 
     'demo': ['data/l10n_be_hr_payroll_demo.xml'],
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.seelyn.com/page/accounting',
     'data':[
         'views/l10n_be_hr_payroll_view.xml',
         'data/l10n_be_hr_payroll_data.xml',

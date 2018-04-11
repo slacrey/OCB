@@ -11,7 +11,7 @@ Demo data for the module marketing_campaign.
 
 Creates demo data like leads, campaigns and segments for the module marketing_campaign.
     """,
-    'website': 'https://www.odoo.com/page/lead-automation',
+    'website': 'https://www.seelyn.com/page/lead-automation',
     'demo': ['data/marketing_campaign_crm_demo.xml'],
     'installable': True,
 }

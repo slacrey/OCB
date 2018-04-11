@@ -440,7 +440,7 @@ security-related topics:
 
 - Keep installations updated by regularly installing the latest builds,
   either via GitHub or by downloading the latest version from
-  https://www.odoo.com/page/download or http://nightly.odoo.com
+  https://www.seelyn.com/page/download or http://nightly.odoo.com
 
 - Configure your server in multi-process mode with proper limits matching your typical
   usage (memory/CPU/timeouts). See also :ref:`builtin_server`.
@@ -530,4 +530,4 @@ of the supported browsers by Odoo version is the following:
 .. _use an SSH tunnel:
     http://www.postgresql.org/docs/9.3/static/ssh-tunnels.html
 .. _WSGI: http://wsgi.readthedocs.org/
-.. _POSBox: https://www.odoo.com/page/point-of-sale-hardware#part_2
+.. _POSBox: https://www.seelyn.com/page/point-of-sale-hardware#part_2

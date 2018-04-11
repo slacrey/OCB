@@ -472,11 +472,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "Создать красивый и профессиональный электронной коммерции на вашем сайте с Odoo.\n"
 "\n"
-"Узнайте больше на https://www.odoo.com/page/e-commerce"
+"Узнайте больше на https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -960,21 +960,21 @@ msgstr "Odoo Веб-сайт и электронная коммерция Дем
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 "Полностью интегрированное маркетинговое приложение Odoo поможет вам "
 "привлечь, конвертировать и закрыть новые инициативы. Проверьте наше "
-"состоящее из трёх частей видео и узнайте больше на www.odoo.com"
+"состоящее из трёх частей видео и узнайте больше на www.seelyn.com"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
-"Полностью интегрированное маркетинговое приложение Odoo поможет вам привлечь, конвертировать и закрыть новые инициативы. Проверьте наше состоящее из трёх частей видео и узнайте больше на www.odoo.com\n"
+"Полностью интегрированное маркетинговое приложение Odoo поможет вам привлечь, конвертировать и закрыть новые инициативы. Проверьте наше состоящее из трёх частей видео и узнайте больше на www.seelyn.com\n"
 "\n"
 "Видео сделаны Miroslava Ganzarcikova и Sophia Eribo."
 
@@ -1237,11 +1237,11 @@ msgstr "Извините, но ничего не соответствует ва
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "Прекратите делать ручной печати и сканирования. Переход к электронной подписи с Odoo знак!\n"
 "\n"
-"Узнайте больше на сайте https://www.odoo.com/page/sign"
+"Узнайте больше на сайте https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

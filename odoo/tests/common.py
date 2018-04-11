@@ -88,7 +88,7 @@ class BaseCase(unittest.TestCase):
     initialized by subclasses.
     """
 
-    longMessage = True      # more verbose error message by default: https://www.odoo.com/r/Vmh
+    longMessage = True      # more verbose error message by default: https://www.seelyn.com/r/Vmh
 
     def cursor(self):
         return self.registry.cursor()

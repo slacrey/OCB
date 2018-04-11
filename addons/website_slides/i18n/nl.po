@@ -461,11 +461,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "Maak een mooie en professionele e-commerce website met Odoo.\n"
 "\n"
-"Lees meer op https://www.odoo.com/page/e-commerce"
+"Lees meer op https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -951,21 +951,21 @@ msgstr "Odoo Website & E-commerce demonstratie"
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 "Odoo's volledig geïntegreerde marketing app helpt u bij het werven, omzetten"
 " en sluiten nieuwe leads. Bekijk onze driedelige video en ontdek meer op "
-"www.odoo.com"
+"www.seelyn.com"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
-"Odoo's volledig geïntegreerde marketing app zullen u helpen bij het vinden, omzetten en sluiten van nieuwe verkopen. Bekijk de video van één van onze partners en ontdek meer op www.odoo.com\n"
+"Odoo's volledig geïntegreerde marketing app zullen u helpen bij het vinden, omzetten en sluiten van nieuwe verkopen. Bekijk de video van één van onze partners en ontdek meer op www.seelyn.com\n"
 "\n"
 "Video gemaakt door Miroslava Ganzarcikova en Sophia Eribo."
 
@@ -1226,11 +1226,11 @@ msgstr "Sorry, maar deze zoekopdracht leverde geen resultaten op"
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "Stop met het handmatig afdrukken en scannen. Gebruik elektronische handtekening met Odoo ondertekenen! \n"
 "\n"
-"Ontdek meer op https://www.odoo.com/page/sign"
+"Ontdek meer op https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

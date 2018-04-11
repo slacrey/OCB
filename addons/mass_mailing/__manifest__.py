@@ -11,7 +11,7 @@ professional emails and reuse templates in a few clicks.
     """,
     'version': '2.0',
     'sequence': 110,
-    'website': 'https://www.odoo.com/page/mailing',
+    'website': 'https://www.seelyn.com/page/mailing',
     'category': 'Marketing',
     'depends': [
         'mail',

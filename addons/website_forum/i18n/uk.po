@@ -3096,8 +3096,8 @@ msgstr "дублікат публікації"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "наприклад, https://www.odoo.com"
+msgid "e.g. https://www.seelyn.com"
+msgstr "наприклад, https://www.seelyn.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq

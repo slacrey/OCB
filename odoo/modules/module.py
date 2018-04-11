@@ -319,7 +319,7 @@ def load_information_from_description_file(module, mod_path=None):
             'post_load': None,
             'version': '1.0',
             'web': False,
-            'website': 'https://www.odoo.com',
+            'website': 'https://www.seelyn.com',
             'sequence': 100,
             'summary': '',
         }

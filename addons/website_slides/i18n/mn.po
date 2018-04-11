@@ -473,11 +473,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "Odoo - г ашиглан вэбсайт дээрээ үзэмж сайтай, мэргэжлийн онлайн борлуулалт үүсгээрэй. \n"
 "\n"
-"Дэлгэрэнгүйг эндээс: https://www.odoo.com/page/e-commerce"
+"Дэлгэрэнгүйг эндээс: https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -961,21 +961,21 @@ msgstr "Odoo Вэбсайт ба Онлайн худалдааны Үзүүлэ�
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 "Odoo - н бүрэн холбогдсон маркетингийн апп нь шинэ сэжимүүдийг татах, "
 "хувиргах, хаахад танд туслана. Манай гурван хэсэгт видеог сонирхоорой, мөн "
-"илүүг www.odoo.com - оос авна уу"
+"илүүг www.seelyn.com - оос авна уу"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
-"Odoo - н бүрэн холбогдсон маркетингийн апп нь шинэ сэжимүүдийг татах, хувиргах, хаахад танд туслана. Манай гурван хэсэгт видеог сонирхоорой, мөн илүүг www.odoo.com - оос авна уу\n"
+"Odoo - н бүрэн холбогдсон маркетингийн апп нь шинэ сэжимүүдийг татах, хувиргах, хаахад танд туслана. Манай гурван хэсэгт видеог сонирхоорой, мөн илүүг www.seelyn.com - оос авна уу\n"
 "\n"
 "Видеог хийсэн Мирослава Ганзарчикова, София Эрибо."
 
@@ -1236,11 +1236,11 @@ msgstr "Уучлаарай, таны хайлтад тохирох зүйл ал
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "Гараар хэвлэх, скандахаа боль. Odoo Sign - ыг ашиглан цахим гарын үсэг рүү шилж!\n"
 "\n"
-"Дэлгэрэнгүйг эндээс https://www.odoo.com/page/sign"
+"Дэлгэрэнгүйг эндээс https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

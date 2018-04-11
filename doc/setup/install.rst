@@ -536,7 +536,7 @@ default db to serve on localhost:8069
 
 .. _demo: https://demo.odoo.com
 .. _docker: https://www.docker.com
-.. _Download: https://www.odoo.com/page/download
+.. _Download: https://www.seelyn.com/page/download
 .. _EPEL: https://fedoraproject.org/wiki/EPEL
 .. _PostgreSQL: http://www.postgresql.org
 .. _the official installer:
@@ -545,7 +545,7 @@ default db to serve on localhost:8069
 .. _PostgreSQL for windows:
     http://www.enterprisedb.com/products-services-training/pgdownload
 .. _Quilt: http://en.wikipedia.org/wiki/Quilt_(software)
-.. _saas: https://www.odoo.com/page/start
+.. _saas: https://www.seelyn.com/page/start
 .. _the wkhtmltopdf download page: https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.1
 .. _UAC: http://en.wikipedia.org/wiki/User_Account_Control
 .. _wkhtmltopdf: http://wkhtmltopdf.org
@@ -559,6 +559,6 @@ default db to serve on localhost:8069
 .. _pywin32: http://sourceforge.net/projects/pywin32/files/pywin32/
 .. _the repository: https://github.com/odoo/odoo
 .. _git: http://git-scm.com
-.. _Editions: https://www.odoo.com/pricing#pricing_table_features
+.. _Editions: https://www.seelyn.com/pricing#pricing_table_features
 .. _nightly: https://nightly.odoo.com/10.0/nightly/
 .. _extra: https://nightly.odoo.com/extra/

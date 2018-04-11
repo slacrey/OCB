@@ -24,7 +24,7 @@ Dashboard / Reports for Purchase Management will include:
 * Receipt Analysis
 * Purchase Analysis
     """,
-    'website': 'https://www.odoo.com/page/purchase',
+    'website': 'https://www.seelyn.com/page/purchase',
     'depends': ['stock_account', 'report'],
     'data': [
         'security/purchase_security.xml',

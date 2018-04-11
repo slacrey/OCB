@@ -27,7 +27,7 @@ Dashboard for CRM will include:
 * Planned Revenue by Stage and User (graph)
 * Opportunities by Stage (graph)
 """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.seelyn.com/page/crm',
     'depends': [
         'base_action_rule',
         'base_setup',

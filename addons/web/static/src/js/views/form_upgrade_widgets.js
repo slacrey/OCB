@@ -55,7 +55,7 @@ var AbstractFieldUpgrade = {
 
     confirm_upgrade: function() {
         new Model("res.users").call("search_count", [[["share", "=", false]]]).then(function(data) {
-            framework.redirect("https://www.odoo.com/odoo-enterprise/upgrade?num_users=" + data);
+            framework.redirect("https://www.seelyn.com/odoo-enterprise/upgrade?num_users=" + data);
         });
     },
 

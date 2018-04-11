@@ -4,7 +4,7 @@
 {
     'name': 'Procurements',
     'version': '1.0',
-    'website': 'https://www.odoo.com/page/manufacturing',
+    'website': 'https://www.seelyn.com/page/manufacturing',
     'category' : 'Hidden',
     'depends' : ['base', 'product'],
     'description': """

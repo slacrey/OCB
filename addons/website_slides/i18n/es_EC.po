@@ -814,7 +814,7 @@ msgid ""
 msgstr ""
 "La aplicación de marketing totalmente integrada de Odoo que le ayudará a "
 "atraer, convertir y obtener a sus clientes potenciales. Revise nuestro vídeo "
-"de tres partes y descubra más en www.odoo.com. \n"
+"de tres partes y descubra más en www.seelyn.com. \n"
 "\n"
 "Vídeo realizado por Miroslava Ganzarcikova y Sophia Eribo."
 

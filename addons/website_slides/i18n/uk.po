@@ -476,11 +476,11 @@ msgstr ""
 msgid ""
 "Create a beautiful and professional eCommerce on your website with Odoo. \n"
 "\n"
-"Find out more at https://www.odoo.com/page/e-commerce"
+"Find out more at https://www.seelyn.com/page/e-commerce"
 msgstr ""
 "Створіть професійний та гарний eCommerce на вашому веб-сайті разом з Odoo. \n"
 "\n"
-"Більше можете знайти тут https://www.odoo.com/page/e-commerce"
+"Більше можете знайти тут https://www.seelyn.com/page/e-commerce"
 
 #. module: website_slides
 #. openerp-web
@@ -966,21 +966,21 @@ msgstr "Презентація веб-сайту та E-commerce Odoo"
 msgid ""
 "Odoo's fully-integrated marketing app will help you to attract, convert and "
 "close new leads. Check out our three-part video and discover more at "
-"www.odoo.com"
+"www.seelyn.com"
 msgstr ""
 "Повністю інтегрований маркетинговий додаток Odoo допоможе вам залучити, "
 "конвертувати та закрити нові ліди. Перегляньте наше відео з трьох частин і "
-"знайдіть більше на www.odoo.com"
+"знайдіть більше на www.seelyn.com"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.seelyn.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
-"Повністю інтегрований маркетинговий додаток Odoo допоможе вам залучити, конвертувати та закрити нові ліди. Перегляньте наше відео з трьох частин і знайдіть більше на  www.odoo.com\n"
+"Повністю інтегрований маркетинговий додаток Odoo допоможе вам залучити, конвертувати та закрити нові ліди. Перегляньте наше відео з трьох частин і знайдіть більше на  www.seelyn.com\n"
 "\n"
 "Відео Мирослави Ганзарцікової та Софії Ерібо."
 
@@ -1240,11 +1240,11 @@ msgstr "Вибачте але нічого не знайдено по вашом
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.seelyn.com/page/sign"
 msgstr ""
 "Припиніть ручне друкування та сканування. Перейдіть до електронного підпису з Підписом Odoo!\n"
 "\n"
-"Більше на https://www.odoo.com/page/sign"
+"Більше на https://www.seelyn.com/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form

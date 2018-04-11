@@ -6,7 +6,7 @@
     'category': 'Website',
     'sequence': 50,
     'summary': 'Build Your Enterprise Website',
-    'website': 'https://www.odoo.com/page/website-builder',
+    'website': 'https://www.seelyn.com/page/website-builder',
     'version': '1.0',
     'description': """
 Odoo Website CMS

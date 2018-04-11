@@ -3026,8 +3026,8 @@ msgstr "duplicitný príspevok"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "napr. https://www.odoo.com"
+msgid "e.g. https://www.seelyn.com"
+msgstr "napr. https://www.seelyn.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq

@@ -175,7 +175,7 @@ odoo.define('web_editor.tour', function (require) {
         content: "insert a link url",
         trigger: '#link-external',
         extra_trigger: 'a#link-preview.btn',
-        run: "text http://www.odoo.com",
+        run: "text http://www.seelyn.com",
     }, {
         content: "change text label",
         trigger: '#link-text',

@@ -13,7 +13,7 @@ This module set the right product on all timesheet lines
 according to the order/contract you work on. This allows to
 have real delivered quantities in sales orders.
 """,
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.seelyn.com/page/warehouse',
     'depends': ['sale', 'hr_timesheet'],
     'data': [
         'data/sale_timesheet_data.xml',
